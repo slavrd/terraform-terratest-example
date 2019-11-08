@@ -42,4 +42,4 @@ jobs:
 
     - name: Test
       working-directory: /home/runner/work/terraform-terratest-example/terraform-terratest-example/test
-      run: go test -v
+      run: sudo go test -v
