@@ -1,6 +1,6 @@
 # Terratest-GitHub Actions example
 
-A simple example of [terrstest](https://github.com/gruntwork-io/terratest) usage. Contains a simple terraform code and a Golang test that leverages the `terratest` terraform module to test the TF configuration.
+An example of [terrstest](https://github.com/gruntwork-io/terratest) usage. Contains a simple terraform code and a Golang test that leverages the `terratest` terraform module to test the TF configuration.
 
 ## Local usage
 
